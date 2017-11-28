@@ -1,0 +1,8 @@
+{
+  "MAPS_API": "AIzaSyAWfYI7O7h91f4iq0yOAzHR3k07vmOmURk",
+  "API_URL": "https://api-skipthedishes.skipthedishes.com/v3/",
+  "APP_TOKEN": "736d1282-f3ba-4f96-a2ec-541b29c7b756",
+  "API_SERVICES": {
+    "RESTAURANTS_SUMMARIES": "/restaurants/summaries?weekly_specials=true&order_type=DELIVERY"
+  }
+}
